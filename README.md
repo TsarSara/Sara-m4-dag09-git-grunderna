@@ -1,3 +1,6 @@
+##Hej!
+Jag har **aldrig** skrivit i en README.md förr. 
+
 # Dag 9 · Git-grunderna
 
 *Modul 4, UI/UX & Frontendutveckling, Lexicon IT-Proffs*
